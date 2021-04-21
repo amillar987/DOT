@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="end.css">
+	</head>
+
+	<body>
+
+	<div class="center">
+		<p>Darkness.</p>
+		<p>I think we just broke out of the universe...my GPS says we are nowh-</p>
+		<p>Musk goes quiet and you are left in the darkness. No more options or choice. Just darkness.</p>
+		
+		<p>
+		<button class="button btn" onclick="document.location='file:///D:/Users/Archie%20Millar/Uni%20Year%202/WebTech/CW/s1_p1.html'">End Game</button>
+		</p>
+	</div>
+	</body>
+</html>
