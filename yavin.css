@@ -1,0 +1,51 @@
+body {
+	background-image: url(yavin.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: powderblue;
+}
+
+h1 {
+  color: pink;
+  font-size: 96px;
+  font-family: cusFont;
+}
+  
+p {
+  color: pink;
+  font-size: 50px;
+  font-family: cusFont;
+}
+
+.button {
+	background-color: grey;
+	border: none;
+	color: pink;
+	padding: 15px 32px;
+	text-align: center;
+	margin: auto;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	opacity: 0.5;
+	border-radius: 12px;
+	font-family: cusFont;
+}
+	
+.btn:hover {
+	background-color: pink;
+	color: black;
+	transition-duration: 1s;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+	
+.center {
+	text-align: center;
+}
+
+@font-face {
+	font-family: cusFont;
+	src: url(PressStart2P.ttf);
+}
